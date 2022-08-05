@@ -33,6 +33,12 @@ summary(cars)
 
     ## [1] 4
 
+``` r
+3-4
+```
+
+    ## [1] -1
+
 ## Including Plots
 
 You can also embed plots, for example:
