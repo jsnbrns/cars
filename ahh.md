@@ -25,6 +25,14 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
+``` r
+#testing
+
+2+2
+```
+
+    ## [1] 4
+
 ## Including Plots
 
 You can also embed plots, for example:
